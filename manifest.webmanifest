@@ -1,0 +1,16 @@
+{
+  "id": "/",
+  "name": "CHOLLU – Chat, Groups & AI",
+  "short_name": "CHOLLU",
+  "description": "Animated chat app with private chats, groups, AI assistant and customizable themes.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#120f1d",
+  "theme_color": "#7c4dff",
+  "categories": ["social", "communication"],
+  "icons": [
+    {"src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable"}
+  ]
+}
